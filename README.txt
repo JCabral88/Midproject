@@ -1,7 +1,7 @@
 The goal of this project is to explore a little bit more of temperature variation around the globe.
 Further on I will focus in portugal and explore how temperature is floating here, having Lisbon as city reference.
 
-During this exploration I will try to create some interactive world maps with pyplot, where user can check avarage temperature of each country.
+During this exploration I will try to create some interactive world maps with plotly, where user can check avarage temperature of each country.
 
 Also will try to predict how in the avarage temperature will rise or drop for the upcoming years
 
@@ -48,6 +48,3 @@ I want to create a plot where we can see the avarage temperature flotation by ye
 3 - With GlobalLandTemperaturesByMajorCity.xlsx I will start to focus on Portugal temperature flotations.
 
 4 - Conclusion will be based on the data results, will try to provide solutions to mitigate temperatures arise or drop depending on final conclusion.
-
- 
-
